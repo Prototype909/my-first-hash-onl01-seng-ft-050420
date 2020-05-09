@@ -19,8 +19,7 @@ def retrieval
                        "porcelain vases" => 2,
                        "oil paintings" => 3
                       }
-the_manifest["oil paintings"]
-
+the_manifest["oil paintings"]s
 end
 
 def adding
