@@ -4,7 +4,7 @@ def my_hash
 
 
 def shipping_manifest
-  the_manifest {"whale bone corsets" => 5, "porcelain vase" => 2, "oil painting" => 3}
+
 end
 
 def retrieval
