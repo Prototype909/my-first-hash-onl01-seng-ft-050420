@@ -1,6 +1,6 @@
 def my_hash
   pets = {"cats" => "Tiger"}
-
+  
 
 
 def shipping_manifest
